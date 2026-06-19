@@ -1,0 +1,7 @@
+[[hooks.Stop]]
+
+[[hooks.Stop.hooks]]
+type = "command"
+command = '/usr/bin/python3 ".codex/hooks/stop_run_tests.py"'
+timeout = 120
+statusMessage = "Running Budget Reservation Engine tests"
