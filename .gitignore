@@ -1,3 +1,7 @@
+# the point of this repo is to re-generate working source code every time with just initial prompt
+budget-reservation-engine/src/
+failures/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
